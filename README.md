@@ -14,9 +14,9 @@ The other step for deployment was deploying it using the TomCAT platform. You wi
 Demo 2 link: https://youtu.be/7PqNQ-MBd_g 
 
 Deploy FabFlix (Remotely)
-Git clone repository: git clone https://github.com/UCI-Chenli-teaching/cs122b-spring20-team-46/
+Git clone repository: git clone https://github.com/derk1021/cs122b-fall-team-38.git
 
-Change directory into repo: cd cs122b-spring20-team-46
+Change directory into repo: cd cs122b-fall-team-38
 
 Build war file: mvn package
 
